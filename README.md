@@ -148,7 +148,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine)
-- [Mocha](http://visionmedia.github.com/mocha)
+- [Mocha](http://mochajs.org/)
 - [QUnit](http://qunitjs.com)
 - [Buster.js](http://busterjs.org)
 - [YUI Test](http://yuilibrary.com/yui/docs/test/)
@@ -278,6 +278,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Material Design Lite](http://www.getmdl.io) – An implementation of Material Design components in vanilla CSS, JS, and HTML.
 - [Marx](https://github.com/mblode/marx) – The stylish CSS reset. No JavaScript. No Classes. Just raw CSS. 
 - [Wee](https://github.com/weepower/wee) – Mobile-first lightweight front-end framework.
+- [Lighter](https://amine1107.github.io/lighter) – flexible CSS micro framework, Based on the visual aspect, the framework offers you a clean and easy work.
 
 ## Platforms for building web app
 - [Meteor](http://www.meteor.com) - Meteor is an open-source platform for building top-quality web apps in a fraction of the time, whether you’re an expert developer or just getting started.
@@ -340,6 +341,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [fuckyeahmarkdown.com](http://fuckyeahmarkdown.com) — Online HTML to Markdown converter with API and stuff.
 - [Coolors](https://coolors.co) – Fast color scheme generator.
 - [ColorMe](https://colorme.io) – Visualize The CSS Color Function.
+- [oauthbible](http://oauthbible.com) – Clear OAuth explaination.
 
 
 ## Stats
@@ -377,6 +379,7 @@ Community driven list of useful things for front-end developers. [How to contrib
 - [Superherojs.com](http://superherojs.com) - This site is a continuously updated list of articles that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what’s on the horizon.
 - [JSBooks](http://jsbooks.revolunet.com) - JSBooks the best free JavaScript books/resources
 - [WebPlatform.org](http://www.webplatform.org) - Open community of developers building resources for a better web, regardless of brand, browser or platform
+- [howdns.works](https://howdns.works)  - A fun and colorful explanation of how DNS works.
 
 ## Validators & Quality Tools
 - [W3C HTML Validator](http://validator.w3.org)
